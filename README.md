@@ -25,7 +25,7 @@ To allow the user to login and track an employee using either a permit number, a
 
 Website Design: The site map design, the wireframe design and prototypes are on the old Trello board as Rob advised us not to have them on the new Trello board.
 
-#### How The App Works
+### How The App Works
 1. API calls will go from the Frontend (the UI layer) to the Backend (the server-side).
 2. The backend will send SQL requests to the Persistence (database) Tier.
 3. The SQL (from the database) will return data (values from the tables) to the backend.
