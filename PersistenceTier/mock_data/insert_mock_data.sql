@@ -1,4 +1,4 @@
-/* MOCK DATA: To insert values into Employee table */
+-- MOCK DATA: To insert values into Employee table
 
 
 INSERT INTO employees (
